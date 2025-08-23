@@ -15,13 +15,13 @@ This repository contains the Python scripts used to train and test an sLSTM-Tran
 
 ## Requirements
 - Python 3.8+
-- PyTorch
-- NumPy
-- Pandas
-- Matplotlib
-- scikit-learn
-- tqdm
-- timm
+- PyTorch 1.12
+- NumPy 1.23
+- Pandas 1.2
+- Matplotlib 3.5
+- scikit-learn 1.5
+- tqdm 4.66
+- timm 1.0
 
 Install dependencies with pip:
 
